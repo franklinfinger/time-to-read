@@ -14,6 +14,6 @@ var noSpaces = wordText.split(" ").length/230;
 
 countWords();
 
-
-var wPm= document.getElementsByClassName("reading-time");
+var math =
+var wPm = document.getElementsByClassName("reading-time");
 console.log(wPm[0].innerText = "WPM = 5.326");
